@@ -10,7 +10,7 @@ import (
 * @Method solution
 * @Param x int, n int
 * @Return answer []int64
-* @Other 문자열 s와 거리 n을 입력받아 s를 n만큼 민 암호문을 만드는 함수 solution 완성하기
+* @Other x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 만드는 함수 solution 완성하기
  */
 
 func main() {
