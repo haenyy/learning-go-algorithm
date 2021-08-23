@@ -23,6 +23,7 @@ func solution(s string) string {
 
 	answer := ""
 	slice := strings.Split(s, " ")
+	fmt.Println(slice)
 
 	for _, str := range slice {
 
