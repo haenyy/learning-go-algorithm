@@ -5,7 +5,7 @@ import (
 )
 
 /**
-* @Title ◆ BACKJOON > 단계별 > 한수
+* @Title ◆ BACKJOON > 단계별 > 1065.한수
 * @Author haenyy
 * @Method solution
 * @Param a int, b int

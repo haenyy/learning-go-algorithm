@@ -5,7 +5,7 @@ import (
 )
 
 /**
-* @Title ◆ BACKJOON > 단계별 > 셀프넘버
+* @Title ◆ BACKJOON > 단계별 > 4673.셀프넘버
 * @Author haenyy
 * @Method solution
 * @Param n int
